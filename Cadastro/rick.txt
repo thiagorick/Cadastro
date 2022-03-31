@@ -1,0 +1,6 @@
+José;35
+Thiago;20
+Ana;53
+Carol;13
+Pedro;56
+Laise;48
